@@ -1,0 +1,44 @@
+.example-card {
+  margin: 5% 8%;
+  height: 70vh;
+  width: 25vw;
+}
+.card2 {
+  position: absolute;
+  top: 7%;
+  left: 40%;
+  margin-top: 5%;
+  height: 70vh;
+  width: 50vw;
+}
+
+.image {
+  height: 40vh;
+  width: 20vw;
+  margin-top: 5%;
+  margin-left: 10%;
+}
+
+form {
+  padding-top: 1rem;
+}
+
+.pathimage {
+  width: 35%;
+  height: 35%;
+  margin-top: 5%;
+}
+
+h3 {
+  color: rgb(176, 112, 16);
+}
+
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
