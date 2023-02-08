@@ -9,12 +9,6 @@ body {
   align-items: center;
 }
 
-.title {
-  color: rgb(236, 240, 238);
-  font-size: 17px;
-  margin-left: 20px;
-}
-
 .navbar a {
   float: right;
   padding: 20px;
@@ -24,7 +18,7 @@ body {
 }
 
 .navbar a:hover {
-  background-color: #000;
+  background-color: #0a281d;
 }
 
 @media screen and (max-width: 500px) {
